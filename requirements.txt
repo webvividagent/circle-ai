@@ -1,0 +1,3 @@
+# requirements.txt — Circle AI (minimal & perfect)
+streamlit>=1.38.0
+ollama>=0.3.0
